@@ -1,0 +1,19 @@
+*   { 
+    margin: 0; padding: 0;
+    /* 모든 테두리와 여백이 높이와 너비안에 포함되도록 */
+    box-sizing: border-box;
+}
+li  { 
+    list-style: none;
+}
+a   { 
+    text-decoration: none; 
+    color: inherit;
+}
+img, video { 
+    vertical-align: middle;
+}
+em, i, address{ 
+    font-style: normal;
+}
+
